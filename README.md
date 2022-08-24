@@ -7,3 +7,6 @@ The future of this project will be taking the old command line based UI and impl
 The updates for this project will take place in my free time and my goal is to make a polished GUI that will interface with the SQL database to enter and
 retrieve data for record keeping, similar to what you may see if you were a receptionist at the pretend hospital whose records are fleshed out 
 in my SQL database.
+
+This branch "original-project" is for reference. It is my belief that best practice is to create a new branch for each feature implemented, that way I 
+always have a decent restart point if worse comes to worse.
