@@ -67,4 +67,3 @@ To delete a row from the table: Given a table name, your program should show the
 					Then follow the prompts' instructions given to enter more information
 					After the information is entered the altered table is shown
 
-
