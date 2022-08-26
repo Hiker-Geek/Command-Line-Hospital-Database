@@ -3,14 +3,13 @@
 This project is from my SQL college course in which I created a SQL database based on a hospital scenario with ajoining
  python code that could run commands from the command line for retrieving data and entering new data into the database. See instructions below.
 
-The code in this project is written in a python project named proj.py. There has since been updates to the sql database "sqlproject" which addresses errors
-noted from the previous phase, so they are included in the project file as well and it is suggested that the database be recreated from the newer versions of the files.
+The code in this project is written in a python project named proj.py. To start, run the .
 
-##How proj.py works:
+## How proj.py works:
 
 proj.py is a code file meant to be executed from the command line in the form of "python proj.py [argument type] [additional argument, if any] [additional argument, if any]." 
 
-###passing arguments that contain spaces in between words or characters:
+### passing arguments that contain spaces in between words or characters:
 Note that for any arguments that include several words with spaces in between, space separated characters, or anything containing spaces such as "h e l l o", "a 17 3", or "good morning to you",
 they must be enclosed in double quotes like so: "[Enter mutlicharacter space-separated argument]". 
 This indicates to the computer's command line where the multiword argument starts and ends, whereas its default is to take each word as a command itself with the spaces as separators. 
@@ -54,8 +53,9 @@ To retrieve a table's data: Given a table name, retrieve all data from the table
 			To run the query: python proj.py retrieve <table name>
 
 To insert a row into a table:  Given a table name, your program should show the column names of that table and ask the users to input new data to the table. 
-				In case of errors, your program should directly show the MySQL errors to the users. Assumption 1: Users will enter data according to the database
-				constraints. Assumption 2: Users will input one record at a time.
+				In case of errors, your program should directly show the MySQL errors to the users. 
+				Assumption 1: Users will enter data according to the database constraints.
+				Assumption 2: Users will input one record at a time.
 				To run query:  python proj.py insert <table name>
 					Then follow the prompts' instructions given to enter more information
 					After the information is entered the altered table is shown
