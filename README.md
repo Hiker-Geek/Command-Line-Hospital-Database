@@ -1,9 +1,9 @@
 # Command-Line-Hospital-Database
 
-This project is from my SQL college course in which I created a SQL database based on a hospital scenario with ajoining
- python code that could run commands from the command line for retrieving data and entering new data into the database. See instructions below.
+This project is designed to run SQL queries from the command line using python code as the intermediary code to apply these queries. It is a given that users know what is in the database I created and can pass column names and table names. Otherwise, users will be able to both alter data and retrieve data in the table from the command line with limited SQL knowldedge. Demonstrations are in videos below, with more detailed instructions after those videos.
 
-The code in this project is written in a python project named proj.py. To start, navigate to where the project is stored on your computer, and type python proj.py into the command line. You'll be greeted by a menu of options similar to the one below.
+**To start:** 
+The code in this project is written in a python project named proj.py. To start, navigate to where the project is stored on your computer, and type python proj.py into the command line. You'll be greeted by a menu of options for running SQL queries similar to the one below.
 
 ## Displaying Menu in Command Prompt
 https://user-images.githubusercontent.com/77985155/192671550-89d7cbba-18dd-4a92-935b-871f68608280.mp4
