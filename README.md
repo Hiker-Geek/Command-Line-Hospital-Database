@@ -5,15 +5,16 @@ This project is from my SQL college course in which I created a SQL database bas
 
 The code in this project is written in a python project named proj.py. To start, navigate to where the project is stored on your computer, and type python proj.py into the command line. You'll be greeted by a menu of options similar to the one below.
 
-
+## Displaying Menu in Command Prompt
 https://user-images.githubusercontent.com/77985155/192671550-89d7cbba-18dd-4a92-935b-871f68608280.mp4
 
 
-
-
+## Retrieve Data from SQL Table
 https://user-images.githubusercontent.com/77985155/192671665-4d8cea93-9de8-4f4f-9b7c-ce42fc616c90.mp4
 
 
+## Alter Data in SQL tables
+https://user-images.githubusercontent.com/77985155/192674477-5e692773-3a19-44ee-b1e9-dbd45b1afff8.mp4
 
 ## How proj.py works:
 
