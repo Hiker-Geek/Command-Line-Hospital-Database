@@ -3,7 +3,17 @@
 This project is from my SQL college course in which I created a SQL database based on a hospital scenario with ajoining
  python code that could run commands from the command line for retrieving data and entering new data into the database. See instructions below.
 
-The code in this project is written in a python project named proj.py. To start, run the .
+The code in this project is written in a python project named proj.py. To start, navigate to where the project is stored on your computer, and type python proj.py into the command line. You'll be greeted by a menu of options similar to the one below.
+
+
+https://user-images.githubusercontent.com/77985155/192671550-89d7cbba-18dd-4a92-935b-871f68608280.mp4
+
+
+
+
+https://user-images.githubusercontent.com/77985155/192671665-4d8cea93-9de8-4f4f-9b7c-ce42fc616c90.mp4
+
+
 
 ## How proj.py works:
 
